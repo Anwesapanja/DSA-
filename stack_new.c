@@ -17,7 +17,7 @@ void main()
         printf("\n\n2...pop");
         printf("\n\n3....display");
         printf("\n\n4.....exit");
-        printf("\n\n\nenter your choice:  ");
+        printf("\n\n\nenter my choice :  ");
         scanf("%d",&choice);
         switch(choice)
         {
